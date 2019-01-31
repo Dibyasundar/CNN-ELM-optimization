@@ -5,7 +5,8 @@ function[]=ELM_MFO_prog()
 % This is a complete CPU implementation 
 % The code is tested to work on a Ubuntu machine with i7-4770 CPU and 8 GB RAM and MATLAB 2018a
 % The moth-flame code is adapted and modified from the code uploaded by Dr. Seyedali Mirjalili
-% The user of this code must cite his paper Mirjalili, S., 2015. Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm. Knowledge-Based Systems, 89, pp.228-249.
+% The user of this code must cite his paper Mirjalili, S., 2015. Moth-flame optimization algorithm: 
+%                               A novel nature-inspired heuristic paradigm. Knowledge-Based Systems, 89, pp.228-249.
 % 
 %
 %
